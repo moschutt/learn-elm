@@ -10,6 +10,6 @@ program.
 Why learn elm?
 
 Why not?  I mean, what have you got to loose?  I'm learning elm because I've
-had a fascination with functional programming languages for some time and 
-elm let's me home my skills and make stuff that is shareable and possibly even
+had a fascination with functional programming languages for some time and
+elm let's me hone my skills and make stuff that is shareable and possibly even
 useful.
